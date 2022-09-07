@@ -23,15 +23,5 @@
     "start:dev": "nodemon ./src/index.ts",
     "build": "tsc -p .",
     "start:prod": "node ./dist/index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/FaztWeb/typeorm-crud-restapi.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/FaztWeb/typeorm-crud-restapi/issues"
-  },
-  "homepage": "https://github.com/FaztWeb/typeorm-crud-restapi#readme"
+  }
 }
